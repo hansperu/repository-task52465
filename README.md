@@ -28,4 +28,12 @@ Normal distributions are often used in the natural and social sciences to repres
 
 The **3.Distributions funtions.ipynb** file explains the use and purpose of at least five "Distributions" functions.
 
+## 4. Generate Random Numbers in Python
+
+The use of randomness is an important part of configuring and evaluating machine learning algorithms.
+
+From randomly initializing weights in an artificial neural network to dividing data into test sets and random trains, shuffling a set of stochastic gradient descent training data, generating random numbers, and taking advantage of randomness is a skill. necessary.
+
+File **4. Using seeds to generate pseudorandom numbers.ipynb** explains the use of seeds to generate pseudorandom numbers.
+
 
