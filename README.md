@@ -14,3 +14,8 @@ The numpy.random module supplements Python's built-in random with functions to e
 
 In the file **1. Random numbers in NumPy.ipynb** we develop and explain in detail the Numpy random numbers.
 
+## What is Simple Random data fuction?
+In this section we will develop the Simple Random Data function and generate random numbers of different types, such as matrices of various shapes, normally distributed matrices, ranges of floats of different parameters such as the range, dimensions and probabilities of the returned values.
+
+The file **2.Simple random data and Permutations** demonstrates the utility of the random.rand function to generate random numbers between 0 and 1 and how this data can be manipulated, plotted, and displayed.
+
