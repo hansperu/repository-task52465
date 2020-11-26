@@ -19,5 +19,13 @@ In this section we will develop the Simple Random Data function and generate ran
 
 The file **2.Simple random data and Permutations.ipynb** demonstrates the utility of the random.rand function to generate random numbers between 0 and 1 and how this data can be manipulated, plotted, and displayed.
 
+## 3. What is data distribution?
+The data distribution is a list of all possible values and the frequency with which each value occurs. These lists are important when working with statistics and data science.
+
+The random module offers methods that return randomly generated data distributions.
+
+Normal distributions are often used in the natural and social sciences to represent real-valued random variables whose distributions are not known. The normal distribution is a continuous theoretical probability distribution.
+
+The **3.Distributions funtions.ipynb** file explains the use and purpose of at least five "Distributions" functions.
 
 
