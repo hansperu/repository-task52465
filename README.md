@@ -1,9 +1,9 @@
 # Assignment
 # Programming for Data Analysis
 
-## Random numbers in NumPy
-### By Hans Perez Rubin de Celis
+## By Hans Perez Rubin de Celis
 
+## Random numbers in NumPy
 ### What is a random number?
 In this notebook I will respond and discuss the following points:
 
