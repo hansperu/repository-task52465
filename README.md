@@ -56,5 +56,12 @@ File **4. Using seeds to generate pseudorandom numbers.ipynb** explains the use 
 **Resource Type:** eBook
 
 
+![Imagent](http://rps2images.ebscohost.com/rpsweb/othumb?id=NL$1841870$PDF&s=d)
+
+### Hands-On Data Analysis con NumPy y pandas: Implementar Python Paquetes De Datos manipulación para procesamiento
+**Authors:** Miller, Curtis
+**Publication Information:** Birmingham: Packt Publishing. 2018
+**Resource Type:** eBook
+
 
 
