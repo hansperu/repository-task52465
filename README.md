@@ -71,3 +71,12 @@ File **4. Using seeds to generate pseudorandom numbers.ipynb** explains the use 
 **Publication Information:** Birmingham, U.K. : Packt Publishing. 2014
 **Resource Type:** eBook
 
+
+![Imagent](http://rps2images.ebscohost.com/rpsweb/othumb?id=NL$1495814$PDF&s=d)
+
+### Python Data Analysis - Second Edition
+**Authors:** Fandango, Armando
+**Publication Information:** Ed.: Second edition. Birmingham : Packt Publishing. 2017
+**Resource Type:** eBook
+
+
