@@ -38,16 +38,22 @@ File **4. Using seeds to generate pseudorandom numbers.ipynb** explains the use 
 
 # References
 ## Books
+
+![Imagent](http://rps2images.ebscohost.com/rpsweb/othumb?id=NL$1084592$PDF&s=d)
+
 ### Learning IPython for Interactive Computing and Data Visualization - Second Edition
 **Series:Community Experience Distilled**
 **Authors:** Rossant, Cyrille
 **Publication Information:** Ed.: Second edition. Birmingham, UK : Packt Publishing. 2015
 **Resource Type:** eBook
-![Imagent](http://rps2images.ebscohost.com/rpsweb/othumb?id=NL$1084592$PDF&s=d)
 
+![Imagent](http://rps2images.ebscohost.com/rpsweb/othumb?id=NL$1703793$PDF&s=d)
 
-
-
+### IPython Interactive Computing and Visualization Cookbook : Over 100 Hands-on Recipes to Sharpen Your Skills in High-performance Numerical Computing and Data Science in the Jupyter Notebook, 2nd Edition
+**Series:Community Experience Distilled**
+**Authors:** Rossant, Cyrille
+**Publication Information:** Ed.: Second edition. Birmingham : Packt Publishing. 2018
+**Resource Type:** eBook
 
 
 
