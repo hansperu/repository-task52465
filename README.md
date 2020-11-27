@@ -36,4 +36,19 @@ From randomly initializing weights in an artificial neural network to dividing d
 
 File **4. Using seeds to generate pseudorandom numbers.ipynb** explains the use of seeds to generate pseudorandom numbers.
 
+# References
+## Books
+### Learning IPython for Interactive Computing and Data Visualization - Second Edition
+**Series:Community Experience Distilled**
+**Authors:** Rossant, Cyrille
+**Publication Information:** Ed.: Second edition. Birmingham, UK : Packt Publishing. 2015
+**Resource Type:** eBook
+![Imagent](http://rps2images.ebscohost.com/rpsweb/othumb?id=NL$1084592$PDF&s=d)
+
+
+
+
+
+
+
 
