@@ -63,5 +63,11 @@ File **4. Using seeds to generate pseudorandom numbers.ipynb** explains the use 
 **Publication Information:** Birmingham: Packt Publishing. 2018
 **Resource Type:** eBook
 
+![Imagent](http://rps2images.ebscohost.com/rpsweb/othumb?id=NL$880858$PDF&s=d)
 
+### Python Data Analysis
+**Series:Community Experience Distilled**
+**Authors:** Idris, Ivan
+**Publication Information:** Birmingham, U.K. : Packt Publishing. 2014
+**Resource Type:** eBook
 
