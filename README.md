@@ -12,6 +12,22 @@ It is a Python package, specialized for building and manipulating large and mult
 
 The numpy.random module supplements Python's built-in random with functions to efficiently generate complete arrays of sample values from many types of probability distributions. Python source for data analysis by Wes McKinney.
 
+# Import libraries
+
+`import numpy as np`
+
+`import matplotlib.pyplot as plt`
+
+`import pandas as pd`
+
+`import seaborn as sns`
+
+`from matplotlib.ticker import FuncFormatter`
+
+To begin with, we’ll first import the NumPy module by running import `numpy` as `np`, allowing us to access all relevant functions in the module.
+
+
+
 In the file **1. Random numbers in NumPy.ipynb** we develop and explain in detail the Numpy random numbers.
 
 ## 2. What is Simple Random data fuction?
