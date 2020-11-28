@@ -38,10 +38,14 @@ This method generates random numbers in a given shape. Some common examples are 
 np.random.rand(4)
 
 `array([[0.27452013, 0.4426765 , 0.23433773, 0.86329531],`
+
        `[0.02179784, 0.23914946, 0.24846379, 0.41607698],`
+
        `[0.3212738 , 0.37238859, 0.43868957, 0.30780613]])`
+
 ### 2. randn(d0, d1, …, dn) and standard_normal([size])
 Both methods are used to generate random numbers from the standard normal distribution, the curves of which are shown in the figure below. The red curve shows you the standard normal distribution with a mean of 0 and standard deviation of 1.
+
 ![Imagent](https://miro.medium.com/max/640/1*PfODI74UmIlRfDj0q-I3Kw.png)
 
 
