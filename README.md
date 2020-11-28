@@ -12,7 +12,7 @@ It is a Python package, specialized for building and manipulating large and mult
 
 The numpy.random module supplements Python's built-in random with functions to efficiently generate complete arrays of sample values from many types of probability distributions. Python source for data analysis by Wes McKinney.
 
-# Import libraries
+### Import libraries
 
 `import numpy as np`
 
@@ -25,6 +25,24 @@ The numpy.random module supplements Python's built-in random with functions to e
 `from matplotlib.ticker import FuncFormatter`
 
 To begin with, we’ll first import the NumPy module by running import `numpy` as `np`, allowing us to access all relevant functions in the module.
+
+`import numpy as np`
+
+### 1. rand(d0, d1, ..., dn)
+This method generates random numbers in a given shape. Some common examples are given below. Note that the numbers specified in the rand() function correspond to the number of dimensions of the array that is to be generated. A special case is that when no numbers are specified in the function, a random value will be generated.
+
+`np.random.rand()`
+
+`0.5242129213883749`
+
+np.random.rand(4)
+
+`array([[0.27452013, 0.4426765 , 0.23433773, 0.86329531],`
+       `[0.02179784, 0.23914946, 0.24846379, 0.41607698],`
+       `[0.3212738 , 0.37238859, 0.43868957, 0.30780613]])`
+### 2. randn(d0, d1, …, dn) and standard_normal([size])
+Both methods are used to generate random numbers from the standard normal distribution, the curves of which are shown in the figure below. The red curve shows you the standard normal distribution with a mean of 0 and standard deviation of 1.
+![Imagent](https://miro.medium.com/max/640/1*PfODI74UmIlRfDj0q-I3Kw.png)
 
 
 
