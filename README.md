@@ -59,6 +59,28 @@ In the file **1. Random numbers in NumPy.ipynb** we develop and explain in detai
 ## 2. What is Simple Random data fuction?
 In this section we will develop the Simple Random Data function and generate random numbers of different types, such as matrices of various shapes, normally distributed matrices, ranges of floats of different parameters such as the range, dimensions and probabilities of the returned values.
 
+The following lines of code demonstrate the usefulness of the random.rand function to generate random numbers between 0 and 1 and how this data can then be manipulated, plotted and visualised.
+
+```#numpy.random.rand(d0, d1, ..., dn) function example
+#returns array of random floats between 0 and 1 of shape (d0 to dn)
+import numpy as np #import numpy package
+import matplotlib.pyplot as plt
+import scipy as sc
+from scipy import stats
+import math as mt
+import pandas as pd
+%matplotlib inline
+R1 = np.random.rand(100,1) #return 100 x 1 random array of floats between 0 and (not including) 1
+x = np.arange(100) #create a list 0f 1 to 100 in order to plot the random no's created against in a scatter plot
+plt.scatter(x,R1)
+plt.title("plot of 100 random floats ")```
+
+`Text(0.5, 1.0, 'plot of 100 random floats ')`
+
+
+
+
+
 The file **2.Simple random data and Permutations.ipynb** demonstrates the utility of the random.rand function to generate random numbers between 0 and 1 and how this data can be manipulated, plotted, and displayed.
 
 ## 3. What is data distribution?
