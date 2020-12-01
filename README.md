@@ -73,11 +73,12 @@ import pandas as pd
 R1 = np.random.rand(100,1) #return 100 x 1 random array of floats between 0 and (not including) 1
 x = np.arange(100) #create a list 0f 1 to 100 in order to plot the random no's created against in a scatter plot
 plt.scatter(x,R1)
-plt.title("plot of 100 random floats ")```
+plt.title("plot of 100 random floats ")
+```
 
 `Text(0.5, 1.0, 'plot of 100 random floats ')`
 
-
+!(Imagent)[/home/hans/Documentos/gmit ubuntu/progr]
 
 
 
