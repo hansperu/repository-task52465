@@ -78,6 +78,33 @@ plt.title("plot of 100 random floats ")
 
 `Text(0.5, 1.0, 'plot of 100 random floats ')`
 
+### Permutations functions
+The Permutations functions, shuffle and permutation both generate random numbers with the shuffle function changing the order of a given set of inputs. The permutation function will create a random sequence of numbers given an input length.
+
+The following code creates a lotto draw using the shuffle function
+
+```#Shuffle Function
+
+i = list(range(1, 43)) #create a list of 42 numbers
+x = np.array(i) #convert to a numpy array
+np.random.shuffle(x) #shuffle the numbers
+x
+draw = x[0:6] #output first 6 random numbers
+'The lotto numbers are', draw # dispay the lotto numbers
+```
+`('The lotto numbers are', array([ 3, 42, 12, 21, 20, 14]))`
+
+Example of the use of the permutation function to create a random password
+
+```#Permutation Function
+
+#A small example of how the permutation function can be used to generate a random password
+Letters = np.array(['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'X', 'Y', 'Z'])
+Order = np.random.permutation(Letters)
+print('Password is =', Order[1:7])
+```
+`Password is = ['R' 'E' 'I' 'C' 'V' 'T']`
+
 The file **2.Simple random data and Permutations.ipynb** demonstrates the utility of the random.rand function to generate random numbers between 0 and 1 and how this data can be manipulated, plotted, and displayed.
 
 ## 3. What is data distribution?
