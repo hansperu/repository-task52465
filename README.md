@@ -78,7 +78,7 @@ plt.title("plot of 100 random floats ")
 
 `Text(0.5, 1.0, 'plot of 100 random floats ')`
 
-!(Imagent)[file:///home/hans/Escritorio/52465/random1.png]
+!(Imagent)[home/hans/Escritorio/52465/random1.png]
 
 
 
