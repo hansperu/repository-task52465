@@ -35,7 +35,7 @@ This method generates random numbers in a given shape. Some common examples are 
 
 `0.5242129213883749`
 
-np.random.rand(4)
+`np.random.rand(4)`
 
 `array([[0.27452013, 0.4426765 , 0.23433773, 0.86329531],`
 
@@ -49,6 +49,8 @@ Both methods are used to generate random numbers from the standard normal distri
 ![Imagent](https://miro.medium.com/max/640/1*PfODI74UmIlRfDj0q-I3Kw.png)
               *Standard Normal Distribution Shown By Read Curve (Source: Wikipedia)*
 Both methods are to draw numbers randomly from the distribution to generate arrays of the defined shape. Their usages are about the same, except that for the `standard_normal()` method, we need to use a tuple to set the shape size. Some common examples are given below.
+`np.random.randn(4)`
+
 
 
 
